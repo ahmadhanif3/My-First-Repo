@@ -4,4 +4,4 @@ NPM     : 2106750603
 
 Kelas   : C
 
-Hobi    : Basket
+Hobi    : Badminton
